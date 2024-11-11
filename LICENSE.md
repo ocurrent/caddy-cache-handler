@@ -1,7 +1,6 @@
 # MIT License
 
-<!-- TODO -->
-Copyright (c) ${YEAR} Tarides, ${AUTHOR_NAMES}
+Copyright (c) 2024 Tarides, Shon Feder, Mark Elvers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

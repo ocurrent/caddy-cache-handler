@@ -1,19 +1,7 @@
-This repository is a template providing standard file boilerplate to encourage
-shared best practices for all projects created in our organization. Please
-improve it as the need arises.
+# caddy-http-handler
 
-To get started:
-
-- [ ] Click the green `Use this template` button in the upper right, and select
-      "Create a new repository".
-- [ ] Will in the necessary data in the repo creating form.
-- [ ] Run `git grep TODO` to see all the locations needing attention. Replace
-      any text of the form `${FOO}` with the appropriate values.
-- [ ] Delete this task list and the preamble.
-
-# ${PROJECT_NAME}
-
-<!-- TODO -->
+A docker file with a build of [caddy](https://caddyserver.com/) that includes
+the [cache-handler](https://github.com/caddyserver/cache-handler) module.
 
 ## Synopsis
 
@@ -31,8 +19,8 @@ To get started:
 
 Contributions are most welcome!
 
-<!-- TODO -->
-- [File issues](${ISSUE_URL}) to report bugs or feature requests.
+- [File issues](https://github.com/ocurrent/caddy-cache-handler) to report bugs
+  or feature requests.
 - [Contribute code or documentation](./CONTRIBUTING.md)
 
 ---

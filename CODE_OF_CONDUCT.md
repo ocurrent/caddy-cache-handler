@@ -8,8 +8,6 @@ This project follows the OCaml Code of Conduct [enforcement policy](https://gith
 
 To report any violations, please contact:
 
-<!-- TODO -->
-
-- Name1 <name1 [at] tarides [dot] com>
-- Name2 <name2 [at] tarides [dot] com>
+- Shon Feder <shon [at] tarides [dot] com>
+- Mark Elvers <mark [at] tarides [dot] com>
 
