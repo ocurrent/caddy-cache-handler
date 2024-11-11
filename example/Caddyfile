@@ -1,0 +1,11 @@
+{
+    cache
+}
+
+:80 {
+    root * /usr/share/caddy
+    file_server
+    cache {
+      ttl 240s
+    }
+}

@@ -5,15 +5,7 @@ the [cache-handler](https://github.com/caddyserver/cache-handler) module.
 
 ## Synopsis
 
-<!-- TODO -->
-
-## Installation
-
-<!-- TODO -->
-
-## Documentation
-
-<!-- TODO -->
+See the [./example](./example) for illustration of simple usage.
 
 ## Contribution
 
